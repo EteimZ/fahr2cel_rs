@@ -9,5 +9,5 @@ git clone https://github.com/EteimZ/fahr2cel_rs.git
 cd fahr_to_cel
 cargo build
 ./target/debug/fahr_to_cel -t fahr -v 98.6
-98.6 Fahrenheit equals 37 Celcius
+98.6 Fahrenheit equals 37 Celcius # Output
 ```
